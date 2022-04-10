@@ -1,5 +1,6 @@
-package say_hello
+package sayhello
 
-func SayHello() {
+// SayHello is a nice function
+func SayHello() string {
 	return "hello"
 }
